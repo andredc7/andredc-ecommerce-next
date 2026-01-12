@@ -2,6 +2,10 @@
 
 A modern, scalable e-commerce platform built with Next.js 14, featuring separate admin and user interfaces for optimal user experience and management.
 
+Proyek ini merupakan aplikasi Front End E-Commerce yang dibangun menggunakan Next.js untuk menampilkan pengalaman belanja online yang modern, cepat, dan responsif. Aplikasi ini dirancang sebagai portofolio Front End Developer, dengan fokus pada UI/UX, struktur komponen, dan performansi web.
+
+Pengguna dapat melihat daftar produk, detail produk, mengelola keranjang belanja, serta melakukan simulasi proses checkout. Proyek ini mengimplementasikan konsep Single Page Application (SPA) dengan dukungan Server-Side Rendering (SSR) dan Static Site Generation (SSG) untuk meningkatkan kecepatan akses dan SEO.
+
 ## 🚀 Features
 
 ### User Features
